@@ -1,0 +1,15 @@
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\bin\Debug\BookControlForUser.dll
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\bin\Debug\BookControlForUser.pdb
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\obj\Debug\BookControlForUser.csprojResolveAssemblyReference.cache
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\obj\Debug\BookControlForUser.BookControlForUser.resources
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\obj\Debug\BookControlForUser.Properties.Resources.resources
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\obj\Debug\BookControlForUser.csproj.GenerateResource.Cache
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\obj\Debug\BookControlForUser.csproj.CoreCompileInputs.cache
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\obj\Debug\BookControlForUser.dll
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\obj\Debug\BookControlForUser.pdb
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\bin\Debug\BLL.dll
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\bin\Debug\ValueObject.dll
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\bin\Debug\DAL.dll
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\bin\Debug\BLL.pdb
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\bin\Debug\ValueObject.pdb
+C:\Users\Khoa\source\repos\LMS\BookControlForUser\bin\Debug\DAL.pdb

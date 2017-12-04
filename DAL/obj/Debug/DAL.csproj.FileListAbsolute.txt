@@ -1,0 +1,8 @@
+C:\Users\Khoa\source\repos\LMS\DAL\bin\Debug\DAL.dll
+C:\Users\Khoa\source\repos\LMS\DAL\bin\Debug\DAL.pdb
+C:\Users\Khoa\source\repos\LMS\DAL\bin\Debug\ValueObject.dll
+C:\Users\Khoa\source\repos\LMS\DAL\bin\Debug\ValueObject.pdb
+C:\Users\Khoa\source\repos\LMS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Khoa\source\repos\LMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Khoa\source\repos\LMS\DAL\obj\Debug\DAL.dll
+C:\Users\Khoa\source\repos\LMS\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,8 @@
+C:\Users\Khoa\source\repos\LMS\MyImageButton\bin\Debug\MyImageButton.dll
+C:\Users\Khoa\source\repos\LMS\MyImageButton\bin\Debug\MyImageButton.pdb
+C:\Users\Khoa\source\repos\LMS\MyImageButton\obj\Debug\MyImageButton.csprojResolveAssemblyReference.cache
+C:\Users\Khoa\source\repos\LMS\MyImageButton\obj\Debug\MyImageButton.UserControl1.resources
+C:\Users\Khoa\source\repos\LMS\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.Cache
+C:\Users\Khoa\source\repos\LMS\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+C:\Users\Khoa\source\repos\LMS\MyImageButton\obj\Debug\MyImageButton.dll
+C:\Users\Khoa\source\repos\LMS\MyImageButton\obj\Debug\MyImageButton.pdb
